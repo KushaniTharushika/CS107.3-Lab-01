@@ -1,0 +1,7 @@
+D:\Documents\Uni Folder\1 Year 3 Sem\C#\Tutorial 1-4\Tutorial 1-4\bin\Debug\Tutorial 1-4.exe.config
+D:\Documents\Uni Folder\1 Year 3 Sem\C#\Tutorial 1-4\Tutorial 1-4\bin\Debug\Tutorial 1-4.exe
+D:\Documents\Uni Folder\1 Year 3 Sem\C#\Tutorial 1-4\Tutorial 1-4\bin\Debug\Tutorial 1-4.pdb
+D:\Documents\Uni Folder\1 Year 3 Sem\C#\Tutorial 1-4\Tutorial 1-4\obj\Debug\Tutorial 1-4.csproj.AssemblyReference.cache
+D:\Documents\Uni Folder\1 Year 3 Sem\C#\Tutorial 1-4\Tutorial 1-4\obj\Debug\Tutorial 1-4.csproj.CoreCompileInputs.cache
+D:\Documents\Uni Folder\1 Year 3 Sem\C#\Tutorial 1-4\Tutorial 1-4\obj\Debug\Tutorial 1-4.exe
+D:\Documents\Uni Folder\1 Year 3 Sem\C#\Tutorial 1-4\Tutorial 1-4\obj\Debug\Tutorial 1-4.pdb
